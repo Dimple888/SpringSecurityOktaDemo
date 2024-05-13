@@ -27,7 +27,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.okta.spring</groupId>
-			<artifactId>okta-spring-boot-starter</artifactId>
+			<artifactId>okta-spring-boot-starter</artifactId> <!-- okta dependency this will add all the security classes to your classpath -->
 			<version>3.0.6</version>
 		</dependency>
 
